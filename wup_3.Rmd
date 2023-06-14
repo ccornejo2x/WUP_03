@@ -82,4 +82,5 @@ print(tukey_result)
 
 ## Conclusions
 
+As a result, we might infer that depending on the seat, alcohol consumption significantly varies. Additional investigation of the Tukey HSD results would reveal precise information regarding which seats display notable variations in alcohol consumption levels. 
 
